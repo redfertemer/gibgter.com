@@ -14,14 +14,7 @@ My Social Media.
 
 
 
-<html>
-<head>
-<style>
-body {
-  background-color: lightblue;
-}
-</style>
-</head>
+
 
 
 
