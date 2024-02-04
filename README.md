@@ -1,5 +1,5 @@
 
-![logo](https://github.com/redfertemer/gibgter.com/assets/99564921/d975c390-0562-4efc-856b-5eec092f51f2)
+
 
 
 My Social Media.
